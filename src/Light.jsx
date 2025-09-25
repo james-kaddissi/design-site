@@ -18,7 +18,7 @@ export default function Light() {
         scrollTrigger: {
           trigger: sectionRef.current,
           start: "top top",
-          end: "+=175%",
+          end: "+=100%",
           scrub: true,
           pin: true,
           anticipatePin: 1,
@@ -47,8 +47,8 @@ export default function Light() {
     <section ref={sectionRef} className="hero-section">
       <div ref={stageRef} className="darkness">
         <div ref={spotRef} className="light-spot" />
-        <h1 ref={leftTextRef} className="head-title left">Senior</h1>
-        <h1 ref={rightTextRef} className="head-title right">Design</h1>
+        <h1 ref={leftTextRef} className="head-title left">Smart OR</h1>
+        <h1 ref={rightTextRef} className="head-title right">AI Lighting</h1>
       </div>
     </section>
   );

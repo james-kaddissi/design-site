@@ -14,6 +14,14 @@ export default function App() {
       >
         <div>Welcome to our Senior Design</div>
         <div>Matthew Ray Aayush James Joshua</div>
+        <div style={{ 
+          fontSize: "60px",
+          paddingTop: "50px",
+          paddingBottom: "20px"
+        }}>Our Mission</div>
+        <div style={{
+          marginBottom: "100px"
+        }}>To create a smart tracking system for surgical lights.</div>
       </section>
     </>
   );
