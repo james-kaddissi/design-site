@@ -64,7 +64,7 @@ export default function App() {
         >
           {[
             { name: "Matthew", desc: "Senior | Computer Engineering" },
-            { name: "Ray", desc: "Senior | Computer Engineering" },
+            { name: "Ray", desc: "Senior | Optical Engineering" },
             { name: "Aayush", desc: "Senior | Computer Engineering" },
             { name: "James", desc: "Senior | Computer Engineering" },
             { name: "Joshua", desc: "Senior | Computer Engineering" },
